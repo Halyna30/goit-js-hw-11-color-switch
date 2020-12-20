@@ -1,6 +1,3 @@
-import _ from "lodash";
-import "./style.css";
-
 const colors = [
   "#FFFFFF",
   "#2196F3",
